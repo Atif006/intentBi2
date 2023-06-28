@@ -1,0 +1,90 @@
+{ 
+   "iplData" :[
+      {
+    "tName": "Gujarat Titans",
+    "M": 14,
+   " W": 10,
+    "L": 4,
+    "Pts": 20,
+    "NRR": 0.809
+     },
+     {
+    "tName": "Chennai Super Kings",
+    "M": 14,
+    "W": 8,
+    "L": 5,
+    "Pts": 17,
+    "NRR": 0.652
+    },
+    {
+    "tName": "Lucknow Super Giants",
+    "M": 14,
+    "W": 18,
+    "L": 5,
+    "Pts": 17,
+    "NRR": 0.284
+    },
+    {
+    "tName": "Mumbai Indians",
+    "M": 14,
+    "W": 8,
+    "L": 6,
+    "Pts": 16,
+    "NRR": -0.044
+    },
+    {
+    "tName": "Rajsthan Royals",
+    "M": 14,
+    "W": 7,
+    "L": 7,
+    "Pts": 14,
+    "NRR": 0.148
+    },
+    {
+    "tName": "Royal Challengers Bangalore",
+    "M": 14,
+    "W": 7,
+    "L": 7,
+    "Pts": 14,
+    "NRR": 0.135
+    },
+    {
+    "tName": "Kolkata Knight Riders",
+    "M": 14,
+    "W": 6,
+    "L": 8,
+    "Pts": 12,
+    "NRR": -0.239
+    },
+    {
+    "tName": "Punjab Kings",
+    "M": 14,
+    "W": 6,
+    "L": 8,
+    "Pts": 12,
+    "NRR": -0.304
+    },
+    {
+    "tName": "Delhi Capitals",
+    "M": 14,
+    "W": 5,
+    "L": 9,
+    "Pts": 10,
+    "NRR": -0.808
+    },
+    {
+    "tName": "Sunrisers Hyderabad",
+    "M": 14,
+    "W": 4,
+    "L": 10,
+    "Pts": 8,
+    "NRR": -0.59
+    }
+  ]
+
+
+
+
+
+
+}
