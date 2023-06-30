@@ -22,7 +22,7 @@ const ChartComponents = () => {
       <hr />
       <Barchart data={bowlerData} />
       <Typography variant="h4" sx={{ fontWeight: 500 }}>
-        Pie Chart Of Highest Wickets of Bowlers in 2008 - 2023
+        Bar Chart Of Highest Wickets of Bowlers in 2008 - 2023
       </Typography>
     </Box>
   );
